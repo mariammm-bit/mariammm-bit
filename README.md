@@ -1,48 +1,57 @@
-<h1 align="center">Hi 👋, I'm Mariam Gomaa</h1>
-<h3 align="center">AI & Computer Vision Enthusiast | Python Developer</h3>
+<h1 align="center">🌸 Hi there, I'm Mariam 👋</h1>
 
----
-
-### 🌟 About Me  
-- 🎓 I’m a Computer Science student passionate about **Machine Learning & Deep Learning**  
-- 🧠 Currently learning **Computer Vision** and **Neural Networks (CNNs)**  
-- 💻 I enjoy building **ML models**, **Streamlit apps**, and **data analysis projects**  
-- 🎯 My goal: to become an **AI Engineer** specializing in visual intelligence  
-- 📫 Reach me at: **mariamgomaa@example.com** (← غيّريها بإيميلك الحقيقي)
-
----
-
-### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,vscode,streamlit,html,css" />
-</p>
-
----
-
-### 🚀 Featured Projects  
-- 🧠 [CIFAR-10 CNN Classification](https://github.com/mariammm-bit/CIFAR-10_CNN) – Deep Learning model for image classification  
-- 💪 [Fitness Program Prediction](#) – ML model that predicts goals & workouts  
-- 🌐 [Streamlit Dashboard](#) – Interactive web app for ML visualization  
-
----
-
-### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariammm-bit&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariammm-bit&theme=tokyonight" alt="streak" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Waving hand"/>
 </p>
 
 ---
 
-### 🌍 Connect with me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/mariamgomaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mariamgomaa@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+### 💻 About Me
+🎓 I’m a computer science student who loves exploring data, AI, and creative coding.  
+💡 Passionate about **Machine Learning**, **Computer Vision**, and building real-world projects.  
+🌈 I enjoy making my projects not only work — but *look good too!*  
+
+---
+
+### 🚀 My Main Projects
+| Project | Description | Tools |
+|----------|--------------|--------|
+| 🎬 **IMDI Reviews App** | Streamlit web app for analyzing and displaying reviews | Python, Streamlit |
+| 🧠 **CIFAR-10 CNN Model** | Image classification using Convolutional Neural Networks | TensorFlow, Keras |
+| 🧍‍♀️ **Face Detection App** | Real-time face detection using OpenCV | Python, OpenCV |
+| 📊 **Netflix Ratings Prediction** | Machine learning model to predict ratings | Scikit-learn, Pandas |
+
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,streamlit,html,css,git,github,vscode" />
 </p>
 
 ---
 
-⭐️ From [@mariammm-bit](https://github.com/mariammm-bit)
+### 🌼 Currently Learning
+- Deep Learning & Model Optimization  
+- Frontend Basics (HTML, CSS, a bit of JS)
+- Streamlit app deployment & GitHub Projects
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/mariammm-bit">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mariam@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ *"Code like a girl, think like a scientist."* ✨</p>
+
+
 
 
 <!--
