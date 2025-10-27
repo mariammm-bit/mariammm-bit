@@ -8,7 +8,7 @@
 
 ### 💻 About Me
 🎓 I’m a computer science student who loves exploring data, AI, and creative coding.  
-💡 Passionate about **Machine Learning**, **Computer Vision**, and building real-world projects.  
+💡 Passionate about **Machine Learning**, **Computer Vision**,**NLP** and building real-world projects.  
 🌈 I enjoy making my projects not only work — but *look good too!*  
 
 ---
@@ -31,6 +31,7 @@
 ---
 
 ### 🌼 Currently Learning
+- Data Analysis and preprocessing
 - Deep Learning & Model Optimization  
 - Frontend Basics (HTML, CSS, a bit of JS)
 - Streamlit app deployment & GitHub Projects
