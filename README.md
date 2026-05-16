@@ -1,65 +1,56 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2B6CB0&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mariam+Ehab+👋;AI+%26+Machine+Learning+Undergraduate;Computer+Vision+%26+Data+Enthusiast" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi there, I'm Mariam Ehab <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="28px" alt="Waving Hand"></h1>
+
+<h3 align="center">AI & Machine Learning Student | Building Smart & Creative Projects 🚀</h3>
 
 <p align="center">
-  <em>A passionate AI and Machine Learning student from Alexandria, Egypt, dedicated to building smart, real-time, and data-driven solutions.</em>
-</p>
-
-<div align="center">
-  <a href="https://linkedin.com/in/mariam-ehab-4555aa367">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/mariam-ehab-4555aa367" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:maria.eeee342@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-</div>
-
-<br/>
-
-## 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <br/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <br/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
 </p>
 
 ---
 
-## 🚀 Featured AI & Data Projects
+### 👩🏻‍💻 A little about me
 
-| 🤖 Computer Vision & AI | 📊 Data Analytics & BI |
-| :--- | :--- |
-| **[Emotion Detection System](https://github.com/mariammm-bit)**<br>Real-time facial emotion recognition using CNNs, OpenCV, and TensorFlow. | **[Sales Analytics Dashboard](https://github.com/mariammm-bit)**<br>Interactive Power BI dashboards utilizing ETL processes and DAX. |
-| **[Fashion Recommendation](https://github.com/mariammm-bit)**<br>AI-based personalized engine using content filtering and similarity analysis. | **[ML Prediction Pipeline](https://github.com/mariammm-bit)**<br>End-to-end ML workflow encompassing PCA, feature engineering, and Random Forests. |
+- 🎓 Studying **Computer Science & Artificial Intelligence** at Pharos University (Class of 2026).
+- 🤖 Passionate about **Machine Learning, Computer Vision**, and turning raw data into meaningful insights.
+- 💼 Currently learning and growing as an **AI & ML Intern** at Arabian Academy.
+- ✨ **Goal:** Blending creativity with code to build intelligent systems that actually solve real-world problems!
 
----
+<br>
 
-## 📈 GitHub Analytics
+### 🛠️ My Tech Stack
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariammm-bit&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
+**Languages & Databases:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<br/>
+**AI & Machine Learning:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariammm-bit&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariammm-bit&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+**Data Analysis & BI:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-<br/>
+<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mariammm-bit&label=Profile%20Views&color=2B6CB0&style=for-the-badge" alt="Profile Views" />
-</div>
+### 💻 What I've been building
+
+* 🧠 **[Emotion Detection System](https://github.com/mariammm-bit)** — A real-time face emotion recognizer built with Python, OpenCV, and Deep Learning (CNNs).
+* 👗 **[Fashion Recommendation Engine](https://github.com/mariammm-bit)** — Smart outfit suggestions using similarity analysis and content-based filtering.
+* 📊 **[Sales Analytics Dashboard](https://github.com/mariammm-bit)** — Interactive Power BI dashboard crunching business data with DAX and Power Query.
+* 🌱 **[Smart Environment Monitoring](https://github.com/mariammm-bit)** — IoT-based monitoring system using Arduino and cloud integration.
+
+<br>
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariammm-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariammm-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
