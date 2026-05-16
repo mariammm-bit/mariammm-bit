@@ -49,8 +49,8 @@
 
 ### 📈 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariammm-bit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariammm-bit&layout=compact&theme=radical&hide_border=true&v=2" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mariammm-bit&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariammm-bit&theme=radical" width="48%" alt="Profile Details" />
 </div>
 
 <div align="center">
