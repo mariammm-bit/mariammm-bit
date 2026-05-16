@@ -1,63 +1,81 @@
-<h1 align="center">Hi there, I'm Mariam Ehab <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="28px" alt="Waving Hand"></h1>
+# ⚡ Mariam Ehab 
 
-<h3 align="center">AI & Machine Learning Undergraduate | Building Smart, Multi-Modal & Decentralized Solutions 🚀</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mariam-ehab-4555aa367)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:maria.eeee342@gmail.com)
 
-<p align="center">
-  <a href="https://linkedin.com/in/mariam-ehab-4555aa367" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:maria.eeee342@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+> **AI & Machine Learning Undergraduate | Computer Vision | Blockchain**
+> *Bridging the gap between intelligent algorithms and real-world decentralized solutions.*
 
 ---
 
-### 👩‍💻 About Me
+### 👩🏻‍💻 Who am I?
+I am a Computer Science & Artificial Intelligence student at Pharos University (Class of 2026). Currently working as an **AI & ML Intern** at Arabian Academy. My focus lies in building multi-modal biometric systems, extracting insights from complex data, and exploring the security of smart contracts.
 
-- 🎓 Studying **Computer Science & Artificial Intelligence** at Pharos University (Class of 2026).
-- 🧠 Specialized in **Machine Learning, Computer Vision**, and **Multi-Modal Biometrics**.
-- 🌐 Exploring **Blockchain & Smart Contracts** to build secure, decentralized applications.
-- 💼 Currently expanding my skills as an **AI & ML Intern** at Arabian Academy.
+---
+
+### ⚙️ Tech Arsenal
+
+- 🧠 **AI & ML:** TensorFlow, Keras, Scikit-learn, OpenCV
+- 💻 **Core Languages:** Python, C++, SQL, Solidity
+- 📊 **Data & BI:** Power BI, Pandas, NumPy, DAX
+- 🛠️ **Tools & Web3:** Git, GitHub, Truffle, Ganache
+
+---
+
+### 📂 Featured Portfolio 
+*(Click on any project to expand details)*
+
+<details>
+  <summary><b>🎭 Real-Time Emotion Detection System</b></summary>
+  <blockquote>
+    A deep learning pipeline that processes live webcam feeds to classify facial expressions using custom Convolutional Neural Networks (CNNs).<br>
+    <i>Tech: Python, OpenCV, TensorFlow</i><br>
+    🔗 <a href="https://github.com/mariammm-bit/Emotion_Detection_System">View Repository</a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🔐 Multi-Modal Biometric Recognition</b></summary>
+  <blockquote>
+    An advanced authentication system combining facial recognition and voice pattern analysis to verify user identity accurately.<br>
+    <i>Tech: Machine Learning, Scikit-learn, Audio Processing</i><br>
+    🔗 <a href="https://github.com/mariammm-bit/Face-and-Voice-Recognition">View Repository</a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🗳️ Decentralized Blockchain Voting System</b></summary>
+  <blockquote>
+    A secure smart contract application designed to prevent double-voting, deployed and tested on a local Ganache blockchain network.<br>
+    <i>Tech: Solidity, Truffle, Node.js</i><br>
+    🔗 <a href="https://github.com/mariammm-bit/VotingProject">View Repository</a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>📊 Sales & Customer Analytics Dashboard</b></summary>
+  <blockquote>
+    Interactive dashboards providing actionable business insights, utilizing ETL pipelines and complex DAX measures.<br>
+    <i>Tech: Power BI, Power Query</i><br>
+    🔗 <a href="https://github.com/mariammm-bit">View Repository</a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>👗 Fashion Recommendation Engine</b></summary>
+  <blockquote>
+    A personalized ML-based clothing suggestion engine using content-based filtering and similarity analysis.<br>
+    <i>Tech: Python, Pandas, Scikit-learn</i><br>
+    🔗 <a href="https://github.com/mariammm-bit">View Repository</a>
+  </blockquote>
+</details>
 
 <br>
 
-### 🛠️ My Tech Stack
+---
 
-**Languages & Databases:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 📈 Activity Overview
 
-**AI & Machine Learning:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Data Analysis & BI:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Blockchain & Tools:**
-![Truffle](https://img.shields.io/badge/-Truffle-5E463A?style=flat-square&logo=truffle&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-<br>
-
-### 💻 Featured Projects
-
-* 🎭 **[Emotion Detection System](https://github.com/mariammm-bit/Emotion_Detection_System)** — Real-time facial emotion recognition system built using custom CNNs, OpenCV, and TensorFlow.
-* 🔐 **[Multi-Modal Biometric Recognition](https://github.com/mariammm-bit/Face-and-Voice-Recognition)** — An advanced authentication system combining Face and Voice Recognition via Machine Learning.
-* 🗳️ **[Blockchain Voting System](https://github.com/mariammm-bit/VotingProject)** — A decentralized voting application built with Solidity smart contracts, deployed and tested via Truffle and Ganache.
-* 📊 **[Sales & Customer Analytics](https://github.com/mariammm-bit)** — Interactive Power BI dashboard providing actionable business insights using complex DAX measures and Power Query ETL pipelines.
-* 👗 **[Fashion Recommendation Engine](https://github.com/mariammm-bit)** — Personalized clothing recommendation system leveraging similarity analysis and content-based filtering.
-
-<br>
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mariammm-bit&theme=tokyonight&hide_border=true" alt="Mariam's GitHub Stats" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariammm-bit&theme=tokyonight" alt="Top Languages" height="160" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=mariammm-bit&theme=transparent&hide_border=true&stroke=0000" alt="GitHub Streak" />
 </p>
