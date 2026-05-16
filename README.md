@@ -1,71 +1,75 @@
-<h1 align="center">🌸 Hi there, I'm Mariam 👋</h1>
+```md
+<h1 align="center">Mariam Ehab</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Waving hand"/>
+AI & Machine Learning Undergraduate
 </p>
 
 ---
 
-### 💻 About Me
-🎓 I’m a computer science student who loves exploring data, AI, and creative coding.  
-💡 Passionate about **Machine Learning**, **Computer Vision**,**NLP** and building real-world projects.  
-🌈 I enjoy making my projects not only work — but *look good too!*  
+## About Me
+
+Computer Science and Artificial Intelligence student focused on building real-world AI systems and data-driven applications.
+
+Interested in:
+- Machine Learning
+- Computer Vision
+- NLP
+- Data Analytics
+- Robotics & SLAM
 
 ---
 
-### 🚀 My Main Projects
-| Project | Description | Tools |
-|----------|--------------|--------|
-| 🎬 **IMDI Reviews App** | Streamlit web app for analyzing and displaying reviews | Python, Streamlit |
-| 🧠 **CIFAR-10 CNN Model** | Image classification using Convolutional Neural Networks | TensorFlow, Keras |
-| 🧍‍♀️ **Face Detection App** | Real-time face detection using OpenCV | Python, OpenCV |
-| 📊 **Netflix Ratings Prediction** | Machine learning model to predict ratings | Scikit-learn, Pandas |
+## Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|---------------|
+| Emotion Detection System | Real-time facial emotion recognition using Deep Learning | Python, OpenCV, TensorFlow |
+| Fashion Recommendation Engine | AI-based personalized recommendation system | Python, Scikit-learn |
+| ML Prediction Pipeline | Full ML workflow with preprocessing, PCA, and classification | Python, Pandas, Scikit-learn |
+| Power BI Analytics Dashboard | Interactive dashboard for business analytics and reporting | Power BI, DAX |
+| Smart IoT Monitoring System | Sensor-based environmental monitoring system | Arduino, IoT |
 
 ---
 
-### 🧰 Tech Stack
+## Tech Stack
+
+### Languages
+Python • C++ • SQL • Prolog
+
+### AI & Data
+TensorFlow • Scikit-learn • OpenCV • Pandas • NumPy • Matplotlib
+
+### Tools
+Power BI • Git • GitHub • VS Code • Jupyter Notebook
+
+---
+
+## Currently Learning
+
+- Deep Learning Optimization
+- Computer Vision Systems
+- AI Deployment
+- Robotics Localization & SLAM
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,streamlit,html,css,git,github,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariammm-bit&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariammm-bit&layout=compact" />
 </p>
 
 ---
 
-### 🌼 Currently Learning
-- Data Analysis and preprocessing
-- Deep Learning & Model Optimization  
-- Frontend Basics (HTML, CSS, a bit of JS)
-- Streamlit app deployment & GitHub Projects
+## Connect With Me
 
----
+- LinkedIn: linkedin.com/in/mariam-ehab-4555aa367
+- GitHub: github.com/mariammm-bit
+- Email: maria.eeee342@gmail.com
+```
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/mariammm-bit">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mariam@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">✨ *"Code like a girl, think like a scientist."* ✨</p>
-
-
-
-
-<!--
-**mariammm-bit/mariammm-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
