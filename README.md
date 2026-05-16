@@ -59,5 +59,5 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mariammm-bit&theme=tokyonight&hide_border=true" alt="Mariam's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariammm-bit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariammm-bit&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" height="160" />
 </p>
