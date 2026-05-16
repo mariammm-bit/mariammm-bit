@@ -58,6 +58,6 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariammm-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mariam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariammm-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mariammm-bit&theme=tokyonight&hide_border=true" alt="Mariam's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariammm-bit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" height="160" />
 </p>
